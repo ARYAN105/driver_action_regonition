@@ -3,8 +3,8 @@ import { Icon } from "@iconify/react";
 
 function Main() {
   return (
-    <div className="flex flex-col p-2 snap-start w-full h-screen bg-black">
-      <div className="bg-gradient-to-r from-blue-950 flex-grow flex flex-col justify-end p-20 snap-start w-full rounded-3xl ">
+    <div className="flex flex-col p-2  w-full h-screen bg-black ">
+      <div className="bg-gradient-to-r from-blue-950 flex-grow flex flex-col justify-end p-20 w-full rounded-3xl ">
         <h1 className="flex justify-center font-extrabold font-frank text-5xl text-cyan-300 mb-auto whitespace-nowrap">
           CONGONITIVE DRIVER ACTION RECOGNITION SYSTEM
         </h1>

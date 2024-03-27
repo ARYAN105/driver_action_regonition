@@ -4,8 +4,8 @@ import { Label } from "@/components/ui/label";
 
 function Model() {
   return (
-    <div className="flex space-x-20 bg-gray-200 px-20 2xl:px-40 py-10 snap-center w-full h-screen">
-      <div className="space-y-6 w-1/2 h-full">
+    <div className="flex flex-row gap-12 space-x-20 bg-gray-200 2xl:px-40 py-10 w-auto mx-2 h-screen rounded-3xl mb-3 ">
+      <div className="space-y-14 w-1/2 h-full">
         <form className="space-y-8 w-full max-w-fit">
           <Label
             htmlFor="picture"
