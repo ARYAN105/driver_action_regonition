@@ -17,15 +17,15 @@ function Main() {
             <ul className=" text-left space-y-1 font-biryani font-bold text-xl ">
               <li className="flex justify-between items-center ">
                 <span>ADITYA ADHANE</span>
-                <span className="ml-10">- 407A037</span>
+                <span className="ml-10">- 407A004</span>
               </li>
               <li className="flex justify-between items-center">
                 <span>ARYAN GAIKAWAD</span>
-                <span>- 407A037</span>
+                <span>- 407A038</span>
               </li>
               <li className="flex justify-between items-center">
                 <span>VEDANT MORE</span>
-                <span>- 407A037</span>
+                <span>- 407A075</span>
               </li>
               <li className="flex justify-between items-center">
                 <span>VISHAL SANGOLE</span>

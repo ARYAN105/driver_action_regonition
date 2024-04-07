@@ -14,13 +14,9 @@ export default function Block(props) {
           <Separator className="bg-Lora" />
         </span>
         <p className="w-full font-biryani text-gray-200">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci
-          veniam recusandae accusantium itaque saepe ullam aliquam quibusdam
-          consequuntur ducimus, corrupti cum, voluptate esse nemo commodi ad
-          sed, quo repellendus neque?Lorem ipsum dolor sit, amet consectetur
-          adipisicing elit. Officia delectus quo molestias fugit quas omnis
-          incidunt dolores similique autem deleniti ratione laboriosam, ipsum
-          maxime, ab suscipit facilis, magni eveniet
+          Following is the documnetation of the code which contains the client side, server side and the database side code which includes the API calls and the database operations.
+          client side contains the GUI interface of the project, server side contains the API calls and the database side contains the database operations.
+          
         </p>
       </span>
       <CodeBlock file={code1} />

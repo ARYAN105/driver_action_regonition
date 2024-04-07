@@ -19,7 +19,7 @@ function Docs() {
       >
         {" "}
         <div className="top-0 sticky flex flex-col items-end">
-          <div className="bg-gray-200/10 backdrop-blur-sm py-6 w-full h-20">
+          <div className="bg-gray-200/10 backdrop-blur-sm py-6 w-full h-20 ">
             <p className="px-20 2xl:px-40 font-extrabold font-libre text-3xl text-gray-200">
               DOCUMENTATION
             </p>
